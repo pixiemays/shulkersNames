@@ -1,0 +1,4 @@
+name: shulkersNames
+version: '1.0'
+main: org.pixiemays.shulkersNames.ShulkersNames
+api-version: '1.21'
